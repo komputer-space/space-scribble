@@ -1,0 +1,19 @@
+{
+  "name": "space-scribble",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "vite-plugin-mkcert": "^1.17.5"
+  },
+  "dependencies": {
+    "sass": "^1.77.2",
+    "three": "^0.165.0"
+  }
+}
